@@ -1,7 +1,7 @@
 ## Hi, I'm Gomolemo
 
 🎓 ICT student at Sol Plaatje University<br>
-👩🏽‍💻Web Design|HTML,CSS,JS,Figma in action
+👩🏽‍💻Web Design|Modern and Cool web apps
 
 
 ## 🌐 Socials:
